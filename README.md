@@ -1,4 +1,4 @@
-# Here I will lead my reading progression
+# I will keep my reading progression here
 
 # Reading Now
 
