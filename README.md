@@ -1,5 +1,4 @@
-# My own library
-Here I will lead my reading progression per every year
+# Here I will lead my reading progression
 
 # Reading Now
 
