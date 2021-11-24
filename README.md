@@ -23,10 +23,13 @@ Here I will lead my reading progression per every year
         </a>
       <b>Practical Cryptography in Python: Learning Correct Cryptography by Example</b>
       </td>
-      <td>
-        <a href="https://www.amazon.com/Practical-Cryptography-Python-Learning-Correct/dp/1484248996">
+      <td align="center" width="200">
+        <a href="https://www.amazon.com/Serious-Cryptography-Practical-Introduction-Encryption/dp/1593278268">
           <img  src="https://github.com/YWxtYXoK/MyOwnLibrary/blob/main/resources/SeriousCryptography.png" width="200" height="200" />
         </a>
+        <b>
+            Serious Cryptography: A Practical Introduction to Modern    Encryption
+        </b>
       </td>
   </tr>
 </table>  
