@@ -14,10 +14,19 @@ Here I will lead my reading progression per every year
 1. Assembly Programming and Computer Architecture for Software Engineers (Brian R. Hall & Kevin J. Slonka)
 2. Buffer Overflow Attacks: Detect, Exploit, Prevent (Erik Pace Birkholz)
 3. FOR610: Reverse-Engineering Malware: Malware Analysis Tools and Techniques (Anuj Soni & Lenny Zeltser)
-<tr align="center">
-  <td>
-    <a href="https://www.amazon.com/Practical-Cryptography-Python-Learning-Correct/dp/1484248996">
-      <img src="https://raw.githubusercontent.com/YWxtYXoK/MyOwnLibrary/main/resources/PracticalCrypto.svg">
-      </a>
-    </td>
+
+<table>
+  <tr>
+      <td align="center" width="70">
+        <a href="https://www.amazon.com/Practical-Cryptography-Python-Learning-Correct/dp/1484248996">
+          <img  src="https://raw.githubusercontent.com/YWxtYXoK/MyOwnLibrary/main/resources/PracticalCrypto.svg" width="100" height="100" />
+        </a>
+      </td>
+      <tr>
+      <td>
+        <a href="https://www.amazon.com/Practical-Cryptography-Python-Learning-Correct/dp/1484248996">
+          <img  src="https://raw.githubusercontent.com/YWxtYXoK/MyOwnLibrary/main/resources/PracticalCrypto.svg" width="48" height="48" />
+        </a>
+      </td>
   </tr>
+</table>  
