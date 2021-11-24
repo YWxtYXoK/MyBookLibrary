@@ -19,11 +19,21 @@ Here I will lead my reading progression per every year
   <tr>
       <td align="center" width="200">
         <a href="https://www.amazon.com/Practical-Cryptography-Python-Learning-Correct/dp/1484248996">
-          <img  src="https://raw.githubusercontent.com/YWxtYXoK/MyOwnLibrary/main/resources/PracticalCrypto.svg" width="200" height="200" />
+          <img  src="./resources/PracticalCrypto.svg" width="200" height="200" />
         </a>
-      <b>Practical Cryptography in Python: Learning Correct Cryptography by Example</b>
+      <b>
+        Practical Cryptography in Python: Learning Correct Cryptography by Example
+      </b>
       </td>
       <td align="center" width="200">
+        <a href="https://www.amazon.com/            Serious-Cryptography-Practical-Introduction-Encryption/dp/1593278268">
+          <img  src="./resources/SeriousCryptography.png" width="200" height="200" />
+        </a>
+        <b>
+            Serious Cryptography: A Practical Introduction to Modern    Encryption
+        </b>
+      </td>
+            <td align="center" width="200">
         <a href="https://www.amazon.com/Serious-Cryptography-Practical-Introduction-Encryption/dp/1593278268">
           <img  src="https://github.com/YWxtYXoK/MyOwnLibrary/blob/main/resources/SeriousCryptography.png" width="200" height="200" />
         </a>

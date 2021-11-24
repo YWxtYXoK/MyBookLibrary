@@ -1,1 +1,3 @@
 /test/*
+.gitignore
+/resources/.DS_Store
