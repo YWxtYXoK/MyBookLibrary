@@ -21,7 +21,7 @@ Here I will lead my reading progression per every year
         <a href="https://www.amazon.com/Practical-Cryptography-Python-Learning-Correct/dp/1484248996">
           <img  src="https://raw.githubusercontent.com/YWxtYXoK/MyOwnLibrary/main/resources/PracticalCrypto.svg" width="200" height="200" />
         </a>
-      <h5>Practical Cryptography in Python: Learning Correct Cryptography by Example</h5>
+      <b>Practical Cryptography in Python: Learning Correct Cryptography by Example</b>
       </td>
       <tr>
       <td>
