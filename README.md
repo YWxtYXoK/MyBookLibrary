@@ -32,7 +32,7 @@
 </table>
 
 
-<h1>My own library</h1>
+<h1>My book library</h1>
 
 <table>
   <tr>
