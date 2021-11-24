@@ -1,5 +1,4 @@
-
-#Reading now
+<h1>Reading now</h1>
 <table>
     <tr>
       <td align="center" width="200">
@@ -32,7 +31,7 @@
 </table>
 
 
-#My own library
+<h1>My own library</h1>
 
 <table>
   <tr>
