@@ -19,7 +19,7 @@ Here I will lead my reading progression per every year
   <tr>
       <td align="center" width="70">
         <a href="https://www.amazon.com/Practical-Cryptography-Python-Learning-Correct/dp/1484248996">
-          <img  src="https://raw.githubusercontent.com/YWxtYXoK/MyOwnLibrary/main/resources/PracticalCrypto.svg" width="100" height="100" />
+          <img  src="https://raw.githubusercontent.com/YWxtYXoK/MyOwnLibrary/main/resources/PracticalCrypto.svg" width="400" height="400" />
         </a>
       </td>
       <tr>
