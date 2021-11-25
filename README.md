@@ -70,7 +70,7 @@
             </b>
         </td>
         <td align="center" width="200">
-            <a href="https://www.sans.org/cyber-security-courses/   automating-information-security-with-python/">
+            <a href="https://www.sans.org/cyber-security-courses/automating-information-security-with-python/">
               <img  src="./resources/SEC573.png" width="150" height="150" />
             </a>
             <b>
