@@ -28,15 +28,6 @@
             FOR610: Reverse-Engineering Malware: Malware Analtsis Tools and Techniques
         </b>
       </td>
-      <td align="center" width="200">
-        <a href="https://www.amazon.com/Practical-Network-Scanning-vulnerabilities-standard/dp/1788839234">
-            <img  src="./resources/FOR610.png" width="200" height="100" />
-        </a>
-        <br>
-        <b>
-            Practical Network Scanning: Capture network vulnerabilities using standard tools such as Nmap and Nessus
-        </b>
-      </td>
     </tr>
 </table>
 
