@@ -1,10 +1,5 @@
-<<<<<<< HEAD
 <h1>Reading now</h1>
-=======
 
-#Reading now
-
->>>>>>> dbe06be6c95c9edddb11ba9d8d9c237111cce0f1
 <table>
     <tr>
       <td align="center" width="200">
@@ -37,7 +32,7 @@
 </table>
 
 
-<h1>My own library</h1>
+<h1>My book library</h1>
 
 <table>
   <tr>
