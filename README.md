@@ -166,7 +166,7 @@
     <tr>
         <td align="center" width="200">
             <a href="https://www.litres.ru/igor-simdyanov/socialnaya-inzheneriya-i-socialnye-hakery/otzivi/">
-                <img  src="./resources/SocialEngineering.jpg" width="170"    height="190" />
+                <img  src="./resources/SocialEngineering.jpg" width="150"    height="190" />
             </a>
             <b>
                 Социальная инженерия и социальные хакеры
@@ -174,7 +174,7 @@
         </td>
         <td align="center" width="200">
             <a href="https://www.amazon.com/Practical-Network-Scanning-vulnerabilities-standard/dp/1788839234">
-                <img  src="./resources/PracticalNetworkScanning.png" width="170"    height="190" />
+                <img  src="./resources/PracticalNetworkScanning.png" width="150"    height="190" />
             </a>
             <b>
                 Practical Network Scanning
