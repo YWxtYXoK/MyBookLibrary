@@ -20,7 +20,7 @@
         </b>
       </td>
       <td align="center" width="200">
-        <a href="https://www.amazon.com/Buffer-Overflow-Attacks-Exploit-Prevent-ebook/dp/B002C1B7SE">
+        <a href="https://www.sans.org/cyber-security-courses/reverse-engineering-malware-malware-analysis-tools-techniques/">
             <img  src="./resources/FOR610.png" width="200" height="100" />
         </a>
         <br>
