@@ -53,7 +53,7 @@
         </b>
       </td>
         <td align="center" width="200">
-            <a href="https://www.amazon.com/    Serious-Cryptography-Practical-Introduction-Encryption/dp/1593278268">
+            <a href="https://www.amazon.com/Python-Ethical-Hacking-Scratch-successfully/dp/1838829504/ref=sr_1_1?keywords=Python+Ethical+Hacking+from+Scratch%3A+Think+like+an+ethical+hacker&qid=1637829205&qsid=141-2839033-0258623&s=books&sr=1-1&sres=1838829504&srpt=ABIS_BOOK">
               <img  src="./resources/EthicalHackingFromScratch.png" width="200"     height="200" />
             </a>
             <b>
