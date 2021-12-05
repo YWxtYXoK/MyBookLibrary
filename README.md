@@ -25,7 +25,7 @@
         </a>
         <br>
         <b>
-            FOR610: Reverse-Engineering Malware: Malware Analtsis Tools and Techniques
+            FOR610: Reverse-Engineering Malware: Malware Analysis Tools and Techniques
         </b>
       </td>
     </tr>
