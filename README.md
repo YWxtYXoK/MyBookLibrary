@@ -13,7 +13,7 @@
       </td>
       <td align="center" width="200">
         <a href="https://www.sans.org/cyber-security-courses/reverse-engineering-malware-malware-analysis-tools-techniques/">
-            <img  src="./resources/JS%20The%20Definitive%20Guide.jpeg" width="200" height="100" />
+            <img  src="./resources/FOR610.png" width="200" height="100" />
         </a>
         <br>
         <b>
