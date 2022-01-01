@@ -2,7 +2,7 @@
 
 <table>
     <tr>
-      <td align="center" width="200">
+      <td align="center" width="300">
         <a href="https://www.amazon.com/Art-64-Bit-Assembly-Language-ebook/dp/B08H177DFB/ref=sr_1_1?keywords=The+Art+of+64-Bit+Assembly&qid=1637829087&qsid=141-2839033-0258623&s=digital-text&sr=1-1&sres=B08H177DFB%2CB00XYVZNHC&srpt=ABIS_BOOK">
             <img  src="./resources/MASM.jpg" width="150" height="200" />
         </a>
