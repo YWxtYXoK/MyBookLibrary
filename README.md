@@ -3,25 +3,17 @@
 <table>
     <tr>
       <td align="center" width="200">
-        <a href="https://www.amazon.com/Buffer-Overflow-Attacks-Exploit-Prevent-ebook/dp/B002C1B7SE">
-            <img  src="./resources/BufferOverflowAttacks.png" width="150" height="200" />
-        </a>
-        <b>
-          Buffer Overflow Attacks: Detect, Exploit, Prevent
-        </b>
-      </td>
-      <td align="center" width="200">
         <a href="https://www.amazon.com/Art-64-Bit-Assembly-Language-ebook/dp/B08H177DFB/ref=sr_1_1?keywords=The+Art+of+64-Bit+Assembly&qid=1637829087&qsid=141-2839033-0258623&s=digital-text&sr=1-1&sres=B08H177DFB%2CB00XYVZNHC&srpt=ABIS_BOOK">
             <img  src="./resources/MASM.jpg" width="150" height="200" />
         </a>
         <br>
         <b>
-            The Art of 64-Bit Assembly
+            The Definitive Guide: Master the World's Most-Used Programming Language
         </b>
       </td>
       <td align="center" width="200">
         <a href="https://www.sans.org/cyber-security-courses/reverse-engineering-malware-malware-analysis-tools-techniques/">
-            <img  src="./resources/FOR610.png" width="200" height="100" />
+            <img  src="./resources/JS%20The%20Definitive%20Guide.jpeg" width="200" height="100" />
         </a>
         <br>
         <b>
