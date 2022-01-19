@@ -13,11 +13,11 @@
       </td>
       <td align="center" width="200">
         <a>
-            <img  src="https://github.com/YWxtYXoK/MyBookLibrary/blob/main/resources/SANS%20503.3.PNG" width="200" height="300" />
+            <img  src="https://github.com/YWxtYXoK/MyBookLibrary/blob/main/resources/SANS%20503.3.PNG" width="200" height="250" />
         </a>
         <br>
         <b>
-            SECURITY 503.3 Application Protocols and Traffic Analysis
+            SEC503.3 Application Protocols and Traffic Analysis
         </b>
       </td>
     </tr>
