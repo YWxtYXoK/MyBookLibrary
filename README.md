@@ -13,7 +13,7 @@
       </td>
       <td align="center" width="200">
         <a>
-            <img  src="https://github.com/YWxtYXoK/MyBookLibrary/blob/main/resources/SANS%20503.3.PNG" width="200" height="100" />
+            <img  src="https://github.com/YWxtYXoK/MyBookLibrary/blob/main/resources/SANS%20503.3.PNG" width="200" height="300" />
         </a>
         <br>
         <b>
