@@ -12,12 +12,12 @@
         </b>
       </td>
       <td align="center" width="200">
-        <a href="https://www.sans.org/cyber-security-courses/reverse-engineering-malware-malware-analysis-tools-techniques/">
-            <img  src="./resources/FOR610.png" width="200" height="100" />
+        <a>
+            <img  src="./resources/SANS 503.3.png" width="200" height="100" />
         </a>
         <br>
         <b>
-            FOR610: Reverse-Engineering Malware: Malware Analysis Tools and Techniques
+            SECURITY 503.3 Application Protocols and Traffic Analysis
         </b>
       </td>
     </tr>
