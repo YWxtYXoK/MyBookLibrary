@@ -13,7 +13,7 @@
       </td>
       <td align="center" width="200">
         <a>
-            <img  src="./resources/SANS 503.3.png" width="200" height="100" />
+            <img  src="./resources/SANS\ 503.3.png" width="200" height="100" />
         </a>
         <br>
         <b>
