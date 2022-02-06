@@ -4,11 +4,11 @@
     <tr>
       <td align="center" width="200">
         <a>
-            <img  src="https://github.com/YWxtYXoK/MyBookLibrary/blob/main/resources/SANS%20503.3.PNG" width="200" height="250" />
+            <img  src="https://github.com/YWxtYXoK/MyBookLibrary/blob/main/resources/NetworkForensics.jpeg" width="200" height="250" />
         </a>
         <br>
         <b>
-            SEC503.3 Application Protocols and Traffic Analysis
+            Network Forensics: Privacy and Security 
         </b>
       </td>
     </tr>
