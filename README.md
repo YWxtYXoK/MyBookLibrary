@@ -20,6 +20,17 @@
 <table>
   <tr>
       <td align="center" width="200">
+        <a>
+            <img  src="https://github.com/YWxtYXoK/MyBookLibrary/blob/main/resources/SANS%20503.3.PNG" width="200" height="250" />
+        </a>
+        <br>
+        <b>
+            SEC503.3 Application Protocols and Traffic Analysis
+        </b>
+      </td>
+  </tr>
+  <tr>
+      <td align="center" width="200">
         <a href="https://www.amazon.com/    Practical-Cryptography-Python-Learning-Correct/dp/1484248996">
             <img  src="./resources/PracticalCrypto.svg" width="200" height="200" />
         </a>
