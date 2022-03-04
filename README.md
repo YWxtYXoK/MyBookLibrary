@@ -18,6 +18,17 @@
 <h1>My book library</h1>
 
 <table>
+    <tr>
+      <td align="center" width="200">
+        <a href="https://www.amazon.com/Network-Forensics-Security-Anchit-Bijalwan/dp/0367493616" >
+            <img  src="https://github.com/YWxtYXoK/MyBookLibrary/blob/main/resources/NetworkForensics.jpg" width="200" height="250" />
+        </a>
+        <br>
+        <b>
+            Network Forensics: Privacy and Security 
+        </b>
+      </td>
+    </tr>
   <tr>
       <td align="center" width="200">
         <a>
