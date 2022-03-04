@@ -3,12 +3,12 @@
 <table>
     <tr>
       <td align="center" width="200">
-        <a href="https://www.amazon.com/Network-Forensics-Security-Anchit-Bijalwan/dp/0367493616" >
-            <img  src="https://github.com/YWxtYXoK/MyBookLibrary/blob/main/resources/NetworkForensics.jpg" width="200" height="250" />
+        <a href="https://www.amazon.com/Django-Beginners-Learn-web-development/dp/1980377898" >
+            <img  src="https://github.com/YWxtYXoK/MyBookLibrary/blob/main/resources/django_for_beginners.jpg" width="200" height="250" />
         </a>
         <br>
         <b>
-            Network Forensics: Privacy and Security 
+            Django for Beginners: Learn web development with Django 2.0 
         </b>
       </td>
     </tr>
