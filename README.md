@@ -39,7 +39,7 @@
     </td>
     <td align="center" width="200">
         <a>
-            <img  src="https://github.com/YWxtYXoK/MyBookLibrary/blob/main/resources/SAP_Security_and_Risk_Management.PNG" width="200" height="250" />
+            <img  src="https://github.com/YWxtYXoK/MyBookLibrary/blob/main/resources/SAP_Security_and_Risk_Management.png" width="200" height="250" />
         </a>
         <br>
         <b>
