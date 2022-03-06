@@ -29,7 +29,7 @@
         </b>
     </td>
     <td align="center" width="200">
-        <a>
+        <a href="">
             <img  src="https://github.com/YWxtYXoK/MyBookLibrary/blob/main/resources/SANS%20503.3.PNG" width="200" height="250" />
         </a>
         <br>
@@ -38,7 +38,7 @@
         </b>
     </td>
     <td align="center" width="200">
-        <a>
+        <a href="https://www.sap-press.com/sap-security-and-risk-management_2431/">
             <img  src="https://github.com/YWxtYXoK/MyBookLibrary/blob/main/resources/SAP_Security_and_Risk_Management.png" width="200" height="250" />
         </a>
         <br>
