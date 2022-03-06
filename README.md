@@ -3,12 +3,12 @@
 <table>
     <tr>
       <td align="center" width="200">
-        <a href="https://www.amazon.com/Network-Forensics-Security-Anchit-Bijalwan/dp/0367493616" >
-            <img  src="https://github.com/YWxtYXoK/MyBookLibrary/blob/main/resources/NetworkForensics.jpg" width="200" height="250" />
+        <a href="https://www.amazon.com/Django-Beginners-Learn-web-development/dp/1980377898" >
+            <img  src="https://github.com/YWxtYXoK/MyBookLibrary/blob/main/resources/django_for_beginners.jpg" width="200" height="250" />
         </a>
         <br>
         <b>
-            Network Forensics: Privacy and Security 
+            Django for Beginners: Learn web development with Django 2.0 
         </b>
       </td>
     </tr>
@@ -18,8 +18,8 @@
 <h1>My book library</h1>
 
 <table>
-    <tr>
-      <td align="center" width="200">
+  <tr>
+    <td align="center" width="200">
         <a href="https://www.amazon.com/Network-Forensics-Security-Anchit-Bijalwan/dp/0367493616" >
             <img  src="https://github.com/YWxtYXoK/MyBookLibrary/blob/main/resources/NetworkForensics.jpg" width="200" height="250" />
         </a>
@@ -27,10 +27,8 @@
         <b>
             Network Forensics: Privacy and Security 
         </b>
-      </td>
-    </tr>
-  <tr>
-      <td align="center" width="200">
+    </td>
+    <td align="center" width="200">
         <a>
             <img  src="https://github.com/YWxtYXoK/MyBookLibrary/blob/main/resources/SANS%20503.3.PNG" width="200" height="250" />
         </a>
@@ -38,7 +36,7 @@
         <b>
             SEC503.3 Application Protocols and Traffic Analysis
         </b>
-      </td>
+    </td>
   </tr>
   <tr>
       <td align="center" width="200">
