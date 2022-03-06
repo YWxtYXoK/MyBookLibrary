@@ -37,6 +37,15 @@
             SEC503.3 Application Protocols and Traffic Analysis
         </b>
     </td>
+    <td align="center" width="200">
+        <a>
+            <img  src="https://github.com/YWxtYXoK/MyBookLibrary/blob/main/resources/SAP_Security_and_Risk_Management.PNG" width="200" height="250" />
+        </a>
+        <br>
+        <b>
+            SAP Security and Risk Management
+        </b>
+    </td>
   </tr>
   <tr>
       <td align="center" width="200">
