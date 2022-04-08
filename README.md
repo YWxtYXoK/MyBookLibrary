@@ -12,7 +12,6 @@
         </b>
       </td>
     </tr>
-
     <tr>
       <td align="center" width="200">
         <a href="https://www.amazon.com/Network-Protocols-Security-Professionals-vulnerabilities-ebook/dp/B09FKK2JPW" >
