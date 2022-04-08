@@ -2,6 +2,7 @@
 
 <table>
     <tr>
+        
       <td align="center" width="200">
         <a href="https://www.amazon.com/Django-Beginners-Learn-web-development/dp/1980377898" >
             <img  src="https://github.com/YWxtYXoK/MyBookLibrary/blob/main/resources/django_for_beginners.jpg" width="200" height="250" />
@@ -11,8 +12,7 @@
             Django for Beginners: Learn web development with Django 2.0 
         </b>
       </td>
-    </tr>
-    <tr>
+        
       <td align="center" width="200">
         <a href="https://www.amazon.com/Network-Protocols-Security-Professionals-vulnerabilities-ebook/dp/B09FKK2JPW" >
             <img  src="https://github.com/YWxtYXoK/MyBookLibrary/blob/main/resources/NetworkProtocolsForSecurity.jpg" width="200" height="250" />
