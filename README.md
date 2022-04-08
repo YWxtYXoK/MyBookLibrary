@@ -12,14 +12,15 @@
         </b>
       </td>
     </tr>
+
     <tr>
       <td align="center" width="200">
         <a href="https://www.amazon.com/Network-Protocols-Security-Professionals-vulnerabilities-ebook/dp/B09FKK2JPW" >
-            <img  src="https://github.com/YWxtYXoK/MyBookLibrary/blob/main/resources/django_for_beginners.jpg" width="200" height="250" />
+            <img  src="https://github.com/YWxtYXoK/MyBookLibrary/blob/main/resources/NetworkProtocolsForSecurity.jpg" width="200" height="250" />
         </a>
         <br>
         <b>
-            Django for Beginners: Learn web development with Django 2.0 
+            Network Protocols for Security Professionals: Probe and identify network-based vulnerabilities and safeguard against network protocol breaches 
         </b>
       </td>
     </tr>
