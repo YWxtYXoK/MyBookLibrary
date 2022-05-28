@@ -11,6 +11,14 @@
             Django for Beginners: Learn web development with Django 2.0 
         </b>
       </td>
+    </tr>
+</table>
+
+
+<h1>My book library</h1>
+
+<table>
+  <tr>
       <td align="center" width="200">
         <a href="https://www.amazon.com/Network-Protocols-Security-Professionals-vulnerabilities-ebook/dp/B09FKK2JPW" >
             <img  src="https://github.com/YWxtYXoK/MyBookLibrary/blob/main/resources/NetworkProtocolsForSecurity.jpg" width="200" height="250" />
@@ -20,13 +28,7 @@
             Network Protocols for Security Professionals: Probe and identify network-based vulnerabilities and safeguard against network protocol breaches 
         </b>
       </td>
-    </tr>
-</table>
-
-
-<h1>My book library</h1>
-
-<table>
+  </tr>
   <tr>
     <td align="center" width="200">
         <a href="https://www.amazon.com/Network-Forensics-Security-Anchit-Bijalwan/dp/0367493616" >
@@ -37,15 +39,6 @@
             Network Forensics: Privacy and Security 
         </b>
     </td>
-    <td align="center" width="200">
-        <a href="https://www.amazon.com/Network-Protocols-Security-Professionals-vulnerabilities-ebook/dp/B09FKK2JPW" >
-            <img  src="https://github.com/YWxtYXoK/MyBookLibrary/blob/main/resources/NetworkProtocolsForSecurity.jpg" width="200" height="250" />
-        </a>
-        <br>
-        <b>
-            Network Protocols for Security Professionals: Probe and identify network-based vulnerabilities and safeguard against network protocol breaches 
-        </b>
-      </td>
     <td align="center" width="200">
         <a href="">
             <img  src="https://github.com/YWxtYXoK/MyBookLibrary/blob/main/resources/SANS%20503.3.PNG" width="200" height="250" />
