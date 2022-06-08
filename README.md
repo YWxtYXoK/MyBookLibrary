@@ -1,7 +1,17 @@
 <h1>Reading now</h1>
 
 <table>
-
+    <tr>
+      <td align="center" width="200">
+        <a href="https://www.amazon.com/Solidity-Programming-Essentials-beginners-blockchain-ebook/dp/B078YYB2SM" >
+            <img  src="https://github.com/hamman3223/MyBookLibrary/blob/main/resources/Solidity.jpeg" width="200" height="250" />
+        </a>
+        <br>
+        <b>
+            Solidity Programming Essentials: A beginner's guide to build smart contracts for Ethereum and blockchain 
+        </b>
+      </td>
+  </tr>
 </table>
 
 
