@@ -8,15 +8,17 @@
 
 <table>
     
-  <td align="center" width="200">
-    <a href="https://www.amazon.com/Mastering-Ethereum-Building-Smart-Contracts/dp/1491971940" >
-        <img  src="https://github.com/hamman3223/MyBookLibrary/blob/main/resources/MasteringEthereum.jpg" width="200" height="250" />
-    </a>
-    <br>
-    <b>
-        Mastering Ethereum: Building Smart Contracts and DApps
-    </b>
-  </td>
+    <tr>
+      <td align="center" width="200">
+        <a href="https://www.amazon.com/Mastering-Ethereum-Building-Smart-Contracts/dp/1491971940" >
+            <img  src="https://github.com/hamman3223/MyBookLibrary/blob/main/resources/MasteringEthereum.jpg" width="200" height="250" />
+        </a>
+        <br>
+        <b>
+            Mastering Ethereum: Building Smart Contracts and DApps
+        </b>
+      </td>
+    </tr>
   
   <tr>
       <td align="center" width="200">
