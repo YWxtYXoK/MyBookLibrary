@@ -155,6 +155,32 @@
     </tr>
     <tr>
         <td align="center" width="200">
+            <a href="https://www.litres.ru/igor-simdyanov/socialnaya-inzheneriya-i-socialnye-hakery/otzivi/">
+                <img  src="./resources/SocialEngineering.jpg" width="150"    height="190" />
+            </a>
+            <b>
+                Социальная инженерия и социальные хакеры
+            </b>
+        </td>
+        <td align="center" width="200">
+            <a href="https://www.amazon.com/Practical-Network-Scanning-vulnerabilities-standard/dp/1788839234">
+                <img  src="./resources/PracticalNetworkScanning.png" width="150"    height="190" />
+            </a>
+            <b>
+                Practical Network Scanning
+            </b>
+        </td>
+        <td align="center" width="200">
+            <a href="https://www.amazon.com/Mastering-Regular-Expressions-Jeffrey-Friedl/dp/0596528124">
+                <img  src="./resources/RegExpressions.jpg" width="150"    height="190" />
+            </a>
+            <b>
+                Practical Network Scanning
+            </b>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="200">
             <a href="https://www.amazon.com/Antivirus-Bypass-Techniques-practical-techniques/dp/1801079749">
               <img  src="./resources/AntivirusBypassTech.jpg" width="300" height="230" />
             </a>
@@ -202,24 +228,6 @@
             </a>
             <b>
                 Linux Administration Cookbook 
-            </b>
-        </td>
-    </tr>
-    <tr>
-        <td align="center" width="200">
-            <a href="https://www.litres.ru/igor-simdyanov/socialnaya-inzheneriya-i-socialnye-hakery/otzivi/">
-                <img  src="./resources/SocialEngineering.jpg" width="150"    height="190" />
-            </a>
-            <b>
-                Социальная инженерия и социальные хакеры
-            </b>
-        </td>
-        <td align="center" width="200">
-            <a href="https://www.amazon.com/Practical-Network-Scanning-vulnerabilities-standard/dp/1788839234">
-                <img  src="./resources/PracticalNetworkScanning.png" width="150"    height="190" />
-            </a>
-            <b>
-                Practical Network Scanning
             </b>
         </td>
     </tr>
