@@ -1,6 +1,12 @@
 <h1>Reading now</h1>
 
 <table>
+</table>
+
+
+<h1>My book library</h1>
+
+<table>
     <tr>
       <td align="center" width="200">
         <a href="https://www.amazon.com/Mastering-Ethereum-Building-Smart-Contracts/dp/1491971940" >
@@ -12,12 +18,7 @@
         </b>
       </td>
   </tr>
-</table>
-
-
-<h1>My book library</h1>
-
-<table>
+  
   <tr>
       <td align="center" width="200">
         <a href="https://www.amazon.com/Threat-Hunting-Elastic-Stack-challenges/dp/1801073783" >
