@@ -175,7 +175,7 @@
                 <img  src="./resources/RegExpressions.jpg" width="150"    height="190" />
             </a>
             <b>
-                Practical Network Scanning
+                Mastering Regular Expressions
             </b>
         </td>
     </tr>
