@@ -104,14 +104,6 @@
         </td>
       <tr>
         <td align="center" width="200">
-            <a href="https://www.offensive-security.com/pwk-oscp/">
-              <img  src="./resources/OSCP.png" width="200"     height="200" />
-            </a>
-            <b>
-                Offensive Security Certified Professional
-            </b>
-        </td>
-        <td align="center" width="200">
             <a href="https://www.sans.org/cyber-security-courses/automating-information-security-with-python/">
               <img  src="./resources/SEC573.png" width="150" height="150" />
             </a>
