@@ -8,6 +8,22 @@
 <table>
     
 <tr>
+    <td align="center" width="200">
+        <a href="https://www.sans.org/cyber-security-courses/automating-information-security-with-python/">
+          <img  src="./resources/SEC573.png" width="150" height="150" />
+        </a>
+        <b>
+            SEC573: Automating Information Security with Python
+        </b>
+    </td>
+    <td align="center" width="200">
+        <a href="https://www.sans.org/cyber-security-courses/wireless-penetration-testing-ethical-hacking/">
+          <img  src="./resources/SEC617.png" width="200" height="100" />
+        </a>
+        <b>
+            SEC617: Wireless Penetration Testing and Ethical Hacking
+        </b>
+    </td>
   <td align="center" width="200">
     <a href="https://www.amazon.com/Mastering-Ethereum-Building-Smart-Contracts/dp/1491971940" >
         <img  src="https://github.com/hamman3223/MyBookLibrary/blob/main/resources/MasteringEthereum.jpg" width="200" height="250" />
@@ -103,22 +119,6 @@
             </b>
         </td>
       <tr>
-        <td align="center" width="200">
-            <a href="https://www.sans.org/cyber-security-courses/automating-information-security-with-python/">
-              <img  src="./resources/SEC573.png" width="150" height="150" />
-            </a>
-            <b>
-                SEC573: Automating Information Security with Python
-            </b>
-        </td>
-        <td align="center" width="200">
-            <a href="https://www.sans.org/cyber-security-courses/wireless-penetration-testing-ethical-hacking/">
-              <img  src="./resources/SEC617.png" width="200" height="100" />
-            </a>
-            <b>
-                SEC617: Wireless Penetration Testing and Ethical Hacking
-            </b>
-        </td>
       </tr>
         <td align="center" width="200">
             <a href="https://www.amazon.com/Cybersecurity-Ops-bash-Analyze-Command/dp/1492041319">
