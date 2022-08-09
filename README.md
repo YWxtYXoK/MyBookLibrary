@@ -1,7 +1,17 @@
 <h1>Reading now</h1>
 
-<b>...</b>
-
+<table>
+    <tr>
+        <td align="center" width="200">
+            <a href="https://www.sans.org/cyber-security-courses/blockchain-smart-contract-security/">
+              <img  src="./resources/SANS554.png" width="150" height="150" />
+            </a>
+            <b>
+                SEC554: Blockchain and Smart Contract Security
+            </b>
+        </td>
+    </tr>
+</table>
 
 <h1>My book library</h1>
 
