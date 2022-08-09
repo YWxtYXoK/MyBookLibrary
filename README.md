@@ -4,7 +4,7 @@
     <tr>
         <td align="center" width="200">
             <a href="https://www.sans.org/cyber-security-courses/blockchain-smart-contract-security/">
-              <img  src="https://github.com/hamman3223/MyBookLibrary/blob/main/resources/SANS554.jpg" width="150" height="150" />
+              <img  src="./resources/SANS554.jpg" width="140" height="140" />
             </a>
             <b>
                 SEC554: Blockchain and Smart Contract Security
