@@ -62,7 +62,7 @@
             href="https://www.sans.org/cyber-security-courses/wireless-penetration-testing-ethical-hacking/">
             <img src="./resources/SEC617.png" width="200" height="100" />
         </a>
-        <p>
+        <p align="center">
             <b>SEC617: Wireless Penetration Testing and Ethical Hacking</b>
         </p>
     </td>
@@ -72,10 +72,9 @@
             <img src="./resources/MasteringEthereum.jpg" width="200"
                 height="250" />
         </a>
-        <br>
-        <b>
-            Mastering Ethereum: Building Smart Contracts and DApps
-        </b>
+        <p align="center">
+            <b>Mastering Ethereum: Building Smart Contracts and DApps</b>
+        </p>
     </td>
 </tr>
 
@@ -86,22 +85,18 @@
             <img src="./resources/elastic_security.jpg" width="200"
                 height="250" />
         </a>
-        <br>
-        <b>
-            Threat Hunting with Elastic Stack: Solve complex security
-            challenges with integrated prevention, detection, and response
-        </b>
+        <p align="center">
+            <b>Threat Hunting with Elastic Stack: Solve security challenges with integrated prevention, detection, and response</b>
+        </p>
     </td>
     <td align="center" width="200">
         <a
             href="https://www.amazon.com/Solidity-Programming-Essentials-beginners-blockchain-ebook/dp/B078YYB2SM">
             <img src="./resources/Solidity.jpeg" width="200" height="250" />
         </a>
-        <br>
-        <b>
-            Solidity Programming Essentials: A beginner's guide to build
-            smart contracts for Ethereum and blockchain
-        </b>
+        <p align="center">
+            <b>Solidity Programming Essentials: A beginner's guide to build smart contracts for Ethereum and blockchain</b>
+        </p>
     </td>
     <td align="center" width="200">
         <a
@@ -109,12 +104,9 @@
             <img src="./resources/NetworkProtocolsForSecurity.jpg"
                 width="200" height="250" />
         </a>
-        <br>
-        <b>
-            Network Protocols for Security Professionals: Probe and identify
-            network-based vulnerabilities and safeguard against network
-            protocol breaches
-        </b>
+        <p align="center">
+            <b>Network Protocols for Security Professionals: Probe and identify network-based vulnerabilities and safeguard against network protocol breaches</b>
+        </p>
     </td>
 </tr>
 <tr>
@@ -124,20 +116,18 @@
             <img src="./resources/NetworkForensics.jpg" width="200"
                 height="250" />
         </a>
-        <br>
-        <b>
-            Network Forensics: Privacy and Security
-        </b>
+        <p align="center">
+            <b>Network Forensics: Privacy and Security</b>
+        </p>
     </td>
     <td align="center" width="200">
         <a href="">
             <img src="./resources/SANS%20503.3.PNG" width="200" height="250"
                 />
         </a>
-        <br>
-        <b>
-            SEC503.3 Application Protocols and Traffic Analysis
-        </b>
+        <p align="center">
+            <b>SEC503.3 Application Protocols and Traffic Analysis</b>
+        </p>
     </td>
     <td align="center" width="200">
         <a
@@ -145,10 +135,9 @@
             <img src="./resources/SAP_Security_and_Risk_Management.png"
                 width="200" height="250" />
         </a>
-        <br>
-        <b>
-            SAP Security and Risk Management
-        </b>
+        <p align="center">
+            <b>SAP Security and Risk Management</b>
+        </p>
     </td>
 </tr>
 <tr>
@@ -158,10 +147,9 @@
             <img src="./resources/PracticalCrypto.svg" width="200"
                 height="200" />
         </a>
-        <b>
-            Practical Cryptography in Python: Learning Correct Cryptography
-            by Example
-        </b>
+        <p align="center">
+            <b>Practical Cryptography in Python: Learning Correct Cryptography by Example</b>
+        </p>
     </td>
     <td align="center" width="200">
         <a href="https://www.amazon.com/
@@ -169,10 +157,9 @@
             <img src="./resources/SeriousCryptography.png" width="200"
                 height="200"/>
         </a>
-        <b>
-            Serious Cryptography: A Practical Introduction to Modern
-            Encryption
-        </b>
+        <p align="center">
+            <b>Serious Cryptography: A Practical Introduction to Modern Encryption</b>
+        </p>
     </td>
     <td align="center" width="200">
         <a
@@ -180,10 +167,9 @@
             <img src="./resources/EthicalHackingFromScratch.png" width="200"
                 height="200" />
         </a>
-        <b>
-            Python Ethical Hacking from Scratch: Think like an ethical
-            hacker, ...
-        </b>
+        <p align="center">
+            <b>Python Ethical Hacking from Scratch: Think like an ethical hacker</b>
+        </p>
     </td>
     <tr>
     </tr>
@@ -193,19 +179,18 @@
             <img src="./resources/CyberOpsWithBash.png" width="300"
                 height="300" />
         </a>
-        <b>
-            Cybersecurity Ops with bash: Attack, Defend, and Analyze from
-            the Command Line 1st Edition
-        </b>
+        <p align="center">
+            <b>Cybersecurity Ops with bash: Attack, Defend, and from the Command Line 1st Edition</b>
+        </p>
     </td>
     <td align="center" width="200">
         <a
             href="https://www.packtpub.com/product/python-object-oriented-programming-fourth-edition/9781801077262">
             <img src="./resources/PythonOOP.jpg" width="300" height="250" />
         </a>
-        <b>
-            Python Object-Oriented Programming - Fourth Edition
-        </b>
+        <p align="center">
+            <b>Python Object-Oriented Programming - Fourth Edition</b>
+        </p>
     </td>
     <td align="center" width="200">
         <a
@@ -213,9 +198,9 @@
             <img src="./resources/Metasploit5.png" width="300" height="230"
                 />
         </a>
-        <b>
-            Metasploit 5.0 for Beginners - Second Edition
-        </b>
+        <p align="center">
+            <b>Metasploit 5.0 for Beginners - Second Edition</b>
+        </p>
     </td>
 </tr>
 <tr>
@@ -225,9 +210,9 @@
             <img src="./resources/SocialEngineering.jpg" width="150"
                 height="190" />
         </a>
-        <b>
-            Социальная инженерия и социальные хакеры
-        </b>
+        <p align="center">
+            <b>Социальная инженерия и социальные хакеры</b>
+        </p>
     </td>
     <td align="center" width="200">
         <a
@@ -235,9 +220,9 @@
             <img src="./resources/PracticalNetworkScanning.png" width="150"
                 height="190" />
         </a>
-        <b>
-            Practical Network Scanning
-        </b>
+        <p align="center">
+            <b>Practical Network Scanning</b>
+        </p>
     </td>
     <td align="center" width="200">
         <a
@@ -245,9 +230,9 @@
             <img src="./resources/RegExpressions.jpg" width="150"
                 height="190" />
         </a>
-        <b>
-            Mastering Regular Expressions
-        </b>
+        <p align="center">
+            <b>Mastering Regular Expressions</b>
+        </p>
     </td>
 </tr>
 <tr>
@@ -257,9 +242,9 @@
             <img src="./resources/AntivirusBypassTech.jpg" width="300"
                 height="230" />
         </a>
-        <b>
-            Antivirus Bypass Techniques
-        </b>
+        <p align="center">
+            <b>Antivirus Bypass Techniques</b>
+        </p>
     </td>
     <td align="center" width="200">
         <a href="https://www.amazon.com/
@@ -273,18 +258,18 @@
             <img src="./resources/DesignPatternsInPython.jpg" width="300"
                 height="230" />
         </a>
-        <b>
-            Design Patterns in Python: Common GOF
-        </b>
+        <p align="center">
+            <b>Design Patterns in Python: Common GOF</b>
+        </p>
     </td>
     <td align="center" width="200">
         <a href="https://bhv.ru/product/web-server-glazami-hakera-3-e-izd/">
             <img src="./resources/FlenovWebServer.jpg" width="300"
                 height="230" />
         </a>
-        <b>
-            Web-сервер глазами хакера. 3-е изд.
-        </b>
+        <p align="center">
+            <b>Web-сервер глазами хакера. 3-е изд.</b>
+        </p>
     </td>
 </tr>
 <tr>
@@ -292,9 +277,9 @@
         <a>
             <img src="./resources/Olifer.png" width="300" height="230" />
         </a>
-        <b>
-            Компьютерные сети 5-е издание
-        </b>
+        <p align="center">
+            <b>Компьютерные сети 5-е издание</b>
+        </p>
     </td>
     <td align="center" width="200">
         <a
@@ -302,9 +287,9 @@
             <img src="./resources/PythonParallelProgramming.jpg" width="300"
                 height="230" />
         </a>
-        <b>
-            Python Parallel Programming Cookbook - Second Edition
-        </b>
+        <p align="center">
+            <b>Python Parallel Programming Cookbook - Second Edition</b>
+        </p>
     </td>
     <td align="center" width="200">
         <a
@@ -312,9 +297,9 @@
             <img src="./resources/LinuxAdministration.png" width="200"
                 height="190" />
         </a>
-        <b>
-            Linux Administration Cookbook
-        </b>
+        <p align="center">
+            <b>Linux Administration Cookbook</b>
+        </p>
     </td>
 </tr>
 
