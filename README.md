@@ -3,6 +3,26 @@
 
 <tr>
     <td>
+        <a href=https://www.amazon.com/Essential-SQLAlchemy-Mapping-Python-Databases-ebook/dp/B018UXJADG/ref=sr_1_1?crid=2CO7U3QJN8CAF&keywords=essential+sqlalchemy&qid=1700551749&s=digital-text&sprefix=Essential+SQL%2Cdigital-text%2C221&sr=1-1>
+            <img src="https://m.media-amazon.com/images/I/91VBLXLOi4L._SL1500_.jpg" width="200" height="200" />
+        </a>
+        <p align="center">
+            <b>
+                Essential SQLAlchemy: Mapping Python to Databases
+            </b>
+        </p>
+    </td>
+    <td>
+        <a href=https://www.amazon.com/Black-Hat-GraphQL-Attacking-Generation-ebook/dp/B0B7Q8BYG1>
+            <img src="https://m.media-amazon.com/images/I/81hCos3TZzL._SL1500_.jpg" width="200" height="200" />
+        </a>
+        <p align="center">
+            <b>
+                Black Hat GraphQL: Attacking Next Generation APIs
+            </b>
+        </p>
+    </td>
+    <td>
         <a>
             <img src="./resources/blackhat-go.jpeg"/>
         </a>
