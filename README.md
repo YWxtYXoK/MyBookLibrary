@@ -10,6 +10,14 @@
             Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
         </b>
     </td>
+    <td>
+        <a href=https://meganorm.ru/Data/626/62688.pdf>
+            <img src="/resources/ГОСТ-56939.png">
+        </a>
+        <b>
+            ГОСТ 56930 Разработка Безопасного Програмного Обеспечения
+        </b>
+    </td>
 </tr>
 <tr>
     <td>
