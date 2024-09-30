@@ -4,6 +4,25 @@
 <tr>
     <td>
         <a href=https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321>
+            <img src="https://m.media-amazon.com/images/I/91PMqRuYpIL._SL1500_.jpg">
+        </a>
+        <b>
+            Building Secure and Reliable Systems: Best Practices for Designing, Implementing, and Maintaining Systems
+        </b>
+    </td>
+</tr>
+
+<tr>
+    <td>
+        <a href=https://www.amazon.de/-/en/Liz-Rice-ebook/dp/B088B9KKGC/ref=sr_1_1?crid=1TJJ56JLWPYBD&dib=eyJ2IjoiMSJ9.FDV6czLspNzj2ytmOhDt5f-OhcRQ_5OOtRoxQy8NRI7GjHj071QN20LucGBJIEps.z0qyX7VrKx96cLt8rQCq2qB3f-D0KHUlZEfMhOXRWnk&dib_tag=se&keywords=Container+Security+Liz+Rice&qid=1727734783&sprefix=container+security+liz+rice%2Caps%2C82&sr=8-1>
+            <img src="https://m.media-amazon.com/images/I/81SbV9cvlVL._SL1500_.jpg">
+        </a>
+        <b>
+            Container Security: Fundamental Technology Concepts that Protect Containerized Applications
+        </b>
+    </td>
+    <td>
+        <a href=https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321>
             <img src="https://m.media-amazon.com/images/I/91JAIKQUkYL._SL1500_.jpg">
         </a>
         <b>
@@ -19,6 +38,7 @@
         </b>
     </td>
 </tr>
+
 <tr>
     <td>
         <a href=https://www.amazon.com/Essential-SQLAlchemy-Mapping-Python-Databases-ebook/dp/B018UXJADG/ref=sr_1_1?crid=2CO7U3QJN8CAF&keywords=essential+sqlalchemy&qid=1700551749&s=digital-text&sprefix=Essential+SQL%2Cdigital-text%2C221&sr=1-1>
