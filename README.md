@@ -3,6 +3,14 @@
 
 <tr>
     <td>
+        <a href=[https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321](https://www.amazon.de/-/en/Certified-Kubernetes-Security-Specialist-Depth/dp/1098132971)>
+            <img src="https://m.media-amazon.com/images/I/81Jm67QG0BL._SL1500_.jpg">
+        </a>
+        <b>
+            Certified Kubernetes Security Specialist (Cks) Study Guide: In-Depth Guidance and Practice
+        </b>
+    </td>
+    <td>
         <a href=https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321>
             <img src="https://m.media-amazon.com/images/I/91PMqRuYpIL._SL1500_.jpg">
         </a>
