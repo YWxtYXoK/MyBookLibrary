@@ -3,6 +3,14 @@
 
 <tr>
     <td>
+        <a href="https://www.amazon.com/Threat-Modeling-Designing-Adam-Shostack/dp/1118809998">
+            <img src="https://m.media-amazon.com/images/I/81enn1aciQL._SL1500_.jpg">
+        </a>
+        <b>
+Threat Modeling: Designing for Security
+        </b>
+    </td>
+    <td>
         <a href=[https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321](https://www.amazon.de/-/en/Certified-Kubernetes-Security-Specialist-Depth/dp/1098132971)>
             <img src="https://m.media-amazon.com/images/I/81Jm67QG0BL._SL1500_.jpg">
         </a>
