@@ -19,7 +19,7 @@ Threat Modeling: Designing for Security
         </b>
     </td>
     <td>
-        <a href=https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321>
+        <a href=[https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321](https://www.amazon.com/Building-Secure-Reliable-Systems-Implementing/dp/1492083127)>
             <img src="https://m.media-amazon.com/images/I/91PMqRuYpIL._SL1500_.jpg">
         </a>
         <b>
